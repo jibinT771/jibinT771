@@ -1,1 +1,1 @@
-![](jibinT771\Images\Cover-pic.jpg)
+![](Images/Cover-pic.jpg)
